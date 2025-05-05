@@ -1,0 +1,65 @@
+[
+  {
+    "id": "PROD_1",
+    "product_title": "ToyStory set 6 pis",
+    "product_price": 1050,
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/toy.jpg"
+  },
+  {
+    "id": "PROD_2",
+    "product_title": "Barbie doll",
+    "product_price": 1380,
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/Roll1.jpg"
+  },
+  {
+    "id": "PROD_3",
+    "product_title": "Pink Car",
+    "product_price": "1250",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/carpink.jpg"
+  },
+  {
+    "id": "PROD_4",
+    "product_title": "Soft toy Frog",
+    "product_price": "850",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/Frog.jpg"
+  },
+  {
+    "id": "PROD_5",
+    "product_title": "Soft toy Combo set",
+    "product_price": "2400",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/toy2.jpg"
+  },
+  {
+    "id": "PROD_6",
+    "product_title": "Barbie",
+    "product_price": "1630",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/barbieL.jpg"
+  },
+  {
+    "id": "PROD_7",
+    "product_title": "Taddy",
+    "product_price": "630",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/toy3.jpg"
+  },
+  {
+    "id": "PROD_8",
+    "product_title": "Yallow-Car",
+    "product_price": "1500",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/Ycar.jpg"
+  },
+  {
+    "id": "PROD_9",
+    "product_title": "KacemTi",
+    "product_price": "1500",
+    "product_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae illo suscipit officiis fugit possimus quos quaerat minima porro nihil eum labore, modi omnis totam facilis ex veniam. Est, ex pariatur!",
+    "image_path": "/uploads/toy1.jpg"
+  }
+]
